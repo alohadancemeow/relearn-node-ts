@@ -1,6 +1,6 @@
 # relearn-node-ts
 
-A REST API tutorial using Node, Express, Typescript & MongoDB. Form [AntonioErdeljac](https://github.com/AntonioErdeljac/ts-node-mongo-rest-api-tutorial)
+A REST API tutorial using Node, Express, Typescript & MongoDB. Thanks 🙏 [AntonioErdeljac](https://github.com/AntonioErdeljac/ts-node-mongo-rest-api-tutorial)
 
 ## dev commands
 
@@ -15,7 +15,7 @@ npm start
 MONGO_URL=<your db url>
 ```
 
-## Http status code:
+## Http status codes:
 
 #### 2xx Success
 - 200 OK
